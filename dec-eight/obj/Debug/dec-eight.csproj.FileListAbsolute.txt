@@ -1,0 +1,15 @@
+C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\bin\Debug\dec_eight.exe.config
+C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\bin\Debug\dec_eight.exe
+C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\bin\Debug\dec_eight.pdb
+C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\obj\Debug\dec-eight.csproj.AssemblyReference.cache
+C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\obj\Debug\App.g.cs
+C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\obj\Debug\dec_eight_MarkupCompile.cache
+C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\obj\Debug\dec_eight_MarkupCompile.lref
+C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\obj\Debug\MainWindow.baml
+C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\obj\Debug\dec_eight.g.resources
+C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\obj\Debug\dec_eight.Properties.Resources.resources
+C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\obj\Debug\dec-eight.csproj.GenerateResource.cache
+C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\obj\Debug\dec-eight.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\obj\Debug\dec_eight.exe
+C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\obj\Debug\dec_eight.pdb
