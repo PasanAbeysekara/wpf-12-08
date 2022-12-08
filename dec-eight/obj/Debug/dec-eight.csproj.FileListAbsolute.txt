@@ -15,3 +15,5 @@ C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\obj\Debug\dec_eight.exe
 C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\obj\Debug\dec_eight.pdb
 C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\obj\Debug\Views\ElementBindingWindow.g.cs
 C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\obj\Debug\Views\ElementBindingWindow.baml
+C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\obj\Debug\Views\ModelBindingWindow.g.cs
+C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\obj\Debug\Views\ModelBindingWindow.baml

@@ -50,6 +50,7 @@
             <Generator>MSBuild:Compile</Generator>
             <SubType>Designer</SubType>
         </ApplicationDefinition>
+        <Compile Include="ViewModels\ModelBindingVM.cs" />
         <Compile Include="Views\ElementBindingWindow.xaml.cs">
           <DependentUpon>ElementBindingWindow.xaml</DependentUpon>
         </Compile>
