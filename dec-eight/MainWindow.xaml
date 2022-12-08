@@ -8,7 +8,7 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <StackPanel>
-            <Slider Minimum="5" Maximum="100" FontSize="20" Margin="10"/>
+            <Button Content="Element Binding" FontSize="20" Width="200" Margin="10" Padding="10" Click="Button_Click"/>
         </StackPanel>
     </Grid>
 </Window>
