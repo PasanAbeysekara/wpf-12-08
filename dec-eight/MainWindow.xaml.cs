@@ -16,6 +16,7 @@ namespace dec_eight
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             var window = new ElementBindingWindow();
+            window.Show();
         }
     }
 }

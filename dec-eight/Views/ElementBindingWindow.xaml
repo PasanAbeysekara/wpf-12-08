@@ -7,6 +7,11 @@
         mc:Ignorable="d"
         Title="ElementBindingWindow" Height="450" Width="800">
     <Grid>
-        
+        <StackPanel>
+            <Slider Minimum="5" Maximum="100" FontSize="20" Margin="10" Padding="10" x:Name="SliderFontSize"/>
+            <TextBlock FontSize="20" Margin="10" Padding="10" 
+                       Text="{Binding ElementName=SliderFontSize,Path=Value}"/>
+            <TextBlock Text="Dope" FontSize="{Binding ElementName=SliderFontSize,Path=Value}" Margin="10" Padding="10"/>
+        </StackPanel>
     </Grid>
 </Window>
