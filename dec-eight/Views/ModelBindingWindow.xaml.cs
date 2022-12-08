@@ -10,5 +10,11 @@ namespace dec_eight.Views
             DataContext = new ModelBindingVm();
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            var vm = (ModelBindingVm)DataContext;
+            vm.IncreaseAge(5);
+        }
     }
 }

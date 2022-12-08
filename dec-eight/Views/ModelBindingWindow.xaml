@@ -17,6 +17,11 @@
                    Text="{Binding LastName}"/>
         <TextBlock Margin="10" Padding="10" FontSize="20"
                    Text="{Binding Age}"/>
-        
+        <TextBox Margin="10" Padding="10" FontSize="20"
+                   Text="{Binding FirstName}"/>
+        <TextBox Margin="10" Padding="10" FontSize="20"
+                   Text="{Binding LastName}"/>
+        <Button Content="Change Age" Click="Button_Click"/>
+
     </StackPanel>
 </Window>
