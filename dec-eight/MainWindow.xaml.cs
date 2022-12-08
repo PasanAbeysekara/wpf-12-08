@@ -1,4 +1,5 @@
 ﻿using System.Windows;
+using dec_eight.Views;
 
 namespace dec_eight
 {
@@ -14,7 +15,7 @@ namespace dec_eight
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            
+            var window = new ElementBindingWindow();
         }
     }
 }
