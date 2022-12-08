@@ -17,3 +17,4 @@ C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\obj\Debug\Views\ElementBindingWi
 C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\obj\Debug\Views\ElementBindingWindow.baml
 C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\obj\Debug\Views\ModelBindingWindow.g.cs
 C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\obj\Debug\Views\ModelBindingWindow.baml
+C:\Users\ASUS\RiderProjects\dec-eight\dec-eight\obj\Debug\GeneratedInternalTypeHelper.g.cs
