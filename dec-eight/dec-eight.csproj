@@ -53,6 +53,9 @@
         <Compile Include="Views\ElementBindingWindow.xaml.cs">
           <DependentUpon>ElementBindingWindow.xaml</DependentUpon>
         </Compile>
+        <Compile Include="Views\ModelBindingWindow.xaml.cs">
+          <DependentUpon>ModelBindingWindow.xaml</DependentUpon>
+        </Compile>
         <Page Include="MainWindow.xaml">
             <Generator>MSBuild:Compile</Generator>
             <SubType>Designer</SubType>
@@ -66,6 +69,7 @@
             <SubType>Code</SubType>
         </Compile>
         <Page Include="Views\ElementBindingWindow.xaml" />
+        <Page Include="Views\ModelBindingWindow.xaml" />
     </ItemGroup>
     <ItemGroup>
         <Compile Include="Properties\AssemblyInfo.cs">

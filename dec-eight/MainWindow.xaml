@@ -8,7 +8,10 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <StackPanel>
-            <Button Content="Element Binding" FontSize="20" Width="200" Margin="10" Padding="10" Click="Button_Click"/>
+            <Button Content="Element Binding" FontSize="20" Width="200"
+                    Margin="10" Padding="10" Click="Button_Click"/>
+            <Button Content="Model Binding" FontSize="20" Width="200"
+                    Margin="10" Padding="10" Click="Button_Click_1"/>
         </StackPanel>
     </Grid>
 </Window>

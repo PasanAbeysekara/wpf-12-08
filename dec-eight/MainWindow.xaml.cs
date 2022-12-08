@@ -18,5 +18,12 @@ namespace dec_eight
             var window = new ElementBindingWindow();
             window.Show();
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            // instead of var can use object type
+            ModelBindingWindow window = new ModelBindingWindow();
+            window.Show();
+        }
     }
 }
